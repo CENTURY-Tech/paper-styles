@@ -1,0 +1,10 @@
+{
+  "name": "paper-styles",
+  "version": "1.3.2",
+  "dependencies": {
+    "polymer": "github:CENTURY-Tech/polymer#v1.12.1",
+    "font-roboto": "PolymerElements/font-roboto#v1.0.2",
+    "iron-flex-layout": "github:CENTURY-Tech/iron-flex-layout#v1.3.10"
+  },
+  "private": true
+}
